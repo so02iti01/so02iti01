@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 😄 Pronouns: They/Them
 
 <!--
 **so02iti01/so02iti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
