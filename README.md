@@ -1,6 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning something
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Solve problems through reading README.md ...
 
 <!--
 **so02iti01/so02iti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
